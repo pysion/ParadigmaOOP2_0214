@@ -2,4 +2,5 @@
 using namespace std;
 
 class baseClass final {
-    
+    public:
+        
