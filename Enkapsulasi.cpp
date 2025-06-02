@@ -13,3 +13,9 @@ class remotelampu {
             return saklarNo[i];
         }
 };
+
+int main() {
+    remotelampu lampuRumah;
+
+   
+}
