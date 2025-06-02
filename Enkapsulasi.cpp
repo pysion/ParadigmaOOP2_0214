@@ -5,5 +5,6 @@ class remotelampu {
     private:
         string saklarNo[10];
 
-    
+    public:
+        
 };
